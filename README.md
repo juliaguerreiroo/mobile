@@ -1,3 +1,8 @@
+## Nomes
+
+- Julia Dalanora Guerreiro
+- Edson Werner Civa
+
 # Playce Mobile
 
 Aplicativo Flutter da loja Playce. Consome a mesma API NestJS e o mesmo banco
